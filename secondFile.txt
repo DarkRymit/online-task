@@ -1,5 +1,5 @@
-sline 1
-sline 2
+sline 1 Up
+sline 2 Up
 sline 3
 sline 4
 sline 5
