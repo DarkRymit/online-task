@@ -1,5 +1,7 @@
 sline 1 Move
 sline 2 Move
+sline 1 Up
+sline 2 Up
 sline 3
 sline 4
 sline 5
